@@ -1,1 +1,2 @@
-hello world from main branch.
+The merge conflict is resolve, 
+hello world from both branches.
